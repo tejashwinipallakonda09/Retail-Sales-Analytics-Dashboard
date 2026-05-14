@@ -1,0 +1,16 @@
+Order Date,Region,Category,Sales,Profit
+01-01-2025,East,Technology,1200,200
+03-01-2025,West,Furniture,850,120
+05-01-2025,South,Office Supplies,430,60
+07-01-2025,North,Technology,2100,500
+09-01-2025,East,Furniture,760,80
+11-01-2025,West,Office Supplies,540,70
+13-01-2025,South,Technology,1800,400
+15-01-2025,North,Furniture,950,130
+17-01-2025,East,Office Supplies,620,90
+19-01-2025,West,Technology,2400,550
+21-01-2025,South,Furniture,780,110
+23-01-2025,North,Office Supplies,500,75
+25-01-2025,East,Technology,1900,420
+27-01-2025,West,Furniture,890,140
+29-01-2025,South,Office Supplies,610,95
